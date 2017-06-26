@@ -1,3 +1,4 @@
 A text file with some content
 
-Det här är jättebra kod
+//This is a comment
+End of comment, start code again
