@@ -2,3 +2,5 @@ A text file with some content
 
 //This is a comment
 End of comment, start code again
+
+Adding something new for new branch
