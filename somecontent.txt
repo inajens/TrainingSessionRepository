@@ -4,3 +4,5 @@ A text file with some content
 End of comment, start code again
 
 Adding something new for new branch
+
+Hej Ina!
